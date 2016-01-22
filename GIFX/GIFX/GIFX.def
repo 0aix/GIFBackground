@@ -1,0 +1,5 @@
+LIBRARY GIFX.dll
+EXPORTS
+	Initialization
+	InitializeGIF
+	ReceiveBMPData
